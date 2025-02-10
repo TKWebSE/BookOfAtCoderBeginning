@@ -2,7 +2,8 @@
 using namespace std;
 
 int main() {
-  bitset<50> A, B;
-  int N;
-  cin >> N;
+  int a,b;
+  cin >> a >> b;
+
+  cout << a * b << endl;
 }
