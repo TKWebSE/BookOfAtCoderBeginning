@@ -2,7 +2,10 @@
 using namespace std;
 
 int main() {
-  bitset<50> A, B;
-  int N;
+  string ans = "";
+  int N = 0;
   cin >> N;
+
+
+  cout << ans << endl;
 }
